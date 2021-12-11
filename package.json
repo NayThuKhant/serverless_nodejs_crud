@@ -1,0 +1,10 @@
+{
+  "name": "serverless_node_crud",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "knex": "^0.95.14",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1"
+  }
+}
